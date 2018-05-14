@@ -1,8 +1,5 @@
 hello changes that give conflict
 new line
 
-new another confict
-some changes
-
-
- 
+new line again
+some conflict changes
