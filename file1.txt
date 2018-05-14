@@ -1,7 +1,7 @@
-hello file1.txt
+hello changes that give conflict
 new line
 
-new line again
+new another confict
 some changes
 
 
